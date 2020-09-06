@@ -1,0 +1,18 @@
+.navbar {
+  padding: 0 1rem;
+}
+.navbar-nav {
+  font-size: 1.4rem;
+}
+.navbar-brand{
+  font-size: 2rem;
+  align-content: flex-start;
+}
+
+
+
+
+.footer{
+  background-color: blueviolet;
+
+}
